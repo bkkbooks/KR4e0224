@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0224/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0224_WYG_000-1a, image: WYG1292/WYG1292-0253a.png}
+body:
+  text: 小辨齋偶存别集類五明提要臣等謹案小辨齋偶存八巻附事定錄三巻明顧允成撰允成字季時無錫人憲成弟也萬厯丙戌進士官禮部主事謫光州州判事蹟具明史本傳允成於癸未舉㑹試丙戌始殿試以對策攻嬖倖抑置末第今集中以是編為冠次為救海瑞疏次為争三王並封疏次為代翟從先論救李材及擬上惟此四字編二疏沈思孝作允成墓誌稱其以論救趙南星謫官而集無此疏疑傳寫佚也次劄記次説義則允成自光州歸田後與憲成講學東林所作次為書簡雜文次為吾與吟則所作詩凡七十首末附事定錄三巻為沈思孝所為墓誌銘高存之所為行狀及憲成所為行述允成文皆論事講學之語書簡居十之九直抒胸臆不事修餙詩為繫壤集派亦不入格然大節凛然其對策奏疏皆真氣流溢發于忠愛之誠其不朽千古者固在此不在彼也乾隆四十六年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:11f734d84098a8fd19c5b200131bf662988d5175737c1adf860e7d041cec7bfb
+metadata:
+  title: 小辨齋偶存
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:26:44.277084'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0224/KR4e0224_000.txt
+hash: sha256:d3d4f2fcab08e436f42e62e93bbd559f93a9a3aeabd9168e6d8d522552d6986f
